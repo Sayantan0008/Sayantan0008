@@ -27,9 +27,6 @@
 ---
 
 ## ⚒️ Tech Stack
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,flask,fastapi,nodejs,postgres,mongodb,docker,aws,linux,vscode,git,github" />
