@@ -263,7 +263,8 @@ const sayantan: Developer = {
 </table>
 
 <!-- Philosophy Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=gradient&center=true&vCenter=true&width=800&lines=💡+Code+is+Art%2C+Make+it+Beautiful;🔥+Learn+Fast%2C+Build+Faster;🌟+Every+Bug+is+a+Feature+Request;✨+Dream+in+Code%2C+Think+in+Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f07178&center=true&vCenter=true&width=800&lines=%F0%9F%92%A1+Code+is+Art%2C+Make+it+Beautiful%3B%F0%9F%94%A5+Learn+Fast%2C+Build+Faster%3B%F0%9F%8C%9F+Every+Bug+is+a+Feature+Request%3B%E2%9C%A8+Dream+in+Code%2C+Think+in+Algorithms" />
+
 
 
 ---
