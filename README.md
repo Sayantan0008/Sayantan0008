@@ -27,6 +27,9 @@
 ---
 
 ## ⚒️ Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,flask,fastapi,nodejs,postgres,mongodb,docker,aws,linux,vscode,git,github" />
@@ -77,8 +80,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling!;Drop+a+star+%E2%AD%90+if+you+liked+my+work!;Let’s+code+the+future+together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling!;Drop+a+star+%E2%AD%90+if+you+liked+my+work!;Let%E2%80%99s+code+the+future+together+%F0%9F%9A%80" />
 </p>
+
 
 ---
 
@@ -91,3 +95,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sayantan0008&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" />
 </p>
+
