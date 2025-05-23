@@ -2,7 +2,7 @@
 
 <!-- Animated Headers -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sayantan+%F0%9F%91%8B;Engineer+%7C+Learner+%7C+Tech+Enthusiast;Always+building+cool+things!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sayantan+%F0%9F%91%8B;Engineer+%7C+Learner+%7C+Tech+Enthusiast;Always+building+cool+things!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,15 +16,15 @@
 ---
 
 <!-- About Section -->
-### 👋 About Me
+### 👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey!+I'm+Sayantan%2C+a+creative+engineer+%F0%9F%94%A5;Exploring+AI+%7C+Web+Dev+%7C+Cloud+Tech;Code.+Connect.+Create.+Repeat." alt="About Typing Animation"/>
+</div>
 <p align="center">
-  I'm <strong>Sayantan</strong>, a passionate engineer and lifelong learner from India 🇮🇳. I enjoy building smart applications, solving real-world problems, and diving deep into all things tech.
+  I’m a driven builder and learner from India 🇮🇳, blending logic with creativity to solve real-world problems. Whether it’s coding scalable apps, diving into AI, or just sketching out ideas — I’m all about the process and the impact.
 </p>
 <p align="center">
-  💡 Always curious | 🤖 AI Explorer | 🌐 Web Developer | 💪 Gym Bro
-</p>
-<p align="center">
-  Let's connect, collaborate, and create awesome things together!
+  ✨ Let’s make tech that matters — together!
 </p>
 
 ---
@@ -82,4 +82,3 @@
 </p>
 
 <!-- End of README -->
-
