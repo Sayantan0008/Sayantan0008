@@ -69,7 +69,7 @@ const sayantan: Developer = {
 <br/>
 
 <!-- Dynamic Role Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&width=800&lines=🎓+Engineer+by+Training%2C+AI+Technologist+by+Choice;🧠+Passionate+about+Intelligent+Systems;🔥+Explorer+of+LLMs%2C+GenAI%2C+and+MLOps;🌍+Turning+Chaos+into+Elegant+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🎓+Engineer+by+Training%2C+AI+Technologist+by+Choice;🧠+Passionate+about+Intelligent+Systems;🔥+Explorer+of+LLMs%2C+GenAI%2C+and+MLOps;🌍+Turning+Chaos+into+Elegant+Software" />
 
 <br/>
 
@@ -87,21 +87,10 @@ const sayantan: Developer = {
 
 <div align="center">
 
-### Core Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,typescript,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,typescript,react,nextjs,flask,fastapi,nodejs,express,django,postgres,mongodb,mysql,redis,sqlite,docker,aws,linux,git,github,tensorflow,pytorch,opencv,vscode&theme=dark" />
 
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,django&theme=dark" />
-
-### Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&theme=dark" />
-
-### AI/ML & Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,vscode&theme=dark" />
 <br/>
+
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -184,12 +173,9 @@ const sayantan: Developer = {
 <br/>
 
 <!-- Language Stats with Custom Title -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=500&custom_title=🧪%20Most%20Used%20Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=500" />
 
 <br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan0008&theme=redical&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" />
 
 <!-- Animated Stats -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f85149&center=true&vCenter=true&width=800&lines=📊+Consistently+Contributing+to+Open+Source;🔥+Building+and+Learning+Every+Day;💡+Turning+Coffee+into+Code;⚡+Growing+the+GitHub+Green+Squares!" />
@@ -237,7 +223,7 @@ const sayantan: Developer = {
 
 <div align="center">
 
-<!-- Philosophy Card with Animation -->
+<!-- Philosophy Card -->
 <table>
 <tr>
 <td align="center">
@@ -262,7 +248,7 @@ const sayantan: Developer = {
 </table>
 
 <!-- Philosophy Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=gradient&center=true&vCenter=true&width=800&lines=💡+Code+is+Art%2C+Make+it+Beautiful;🔥+Learn+Fast%2C+Build+Faster;🌟+Every+Bug+is+a+Feature+Request;✨+Dream+in+Code%2C+Think+in+Algorithms" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=💡+Code+is+Art%2C+Make+it+Beautiful;🔥+Learn+Fast%2C+Build+Faster;🌟+Every+Bug+is+a+Feature+Request;✨+Dream+in+Code%2C+Think+in+Algorithms" />
 
 </div>
 
@@ -286,7 +272,7 @@ const sayantan: Developer = {
 <br/><br/>
 
 <!-- Contact Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+%F0%9F%9A%80;Drop+a+star+⭐+if+you+liked+my+work!;Let's+code+the+future+together!;Always+open+to+collaborate!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+🚀;Drop+a+star+⭐+if+you+liked+my+work!;Let's+code+the+future+together!;Always+open+to+collaborate!" />
 
 <br/>
 
@@ -297,10 +283,10 @@ const sayantan: Developer = {
 <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🌙_Late_Night_Commits-Many-191970?style=for-the-badge&logo=moon&logoColor=white" />
+<img src="https://img.shields.io/badge/🌙_Late_Night_Commits-Many-191970?style=for-the-badge&logoColor=white" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🧠_Problems_Solved-Countless-32CD32?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠_Problems_Solved-Countless-32CD32?style=for-the-badge&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -347,7 +333,7 @@ const sayantan: Developer = {
 <div align="center">
 
 <!-- Final Animated Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=✨+Thanks+for+Visiting+My+Digital+Universe!+✨;🚀+Star+my+repos+if+you+find+them+useful!;🌟+Let's+build+the+future+together%2C+one+commit+at+a+time!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&height=100&lines=✨+Thanks+for+Visiting+My+Digital+Universe!+✨;🚀+Star+my+repos+if+you+find+them+useful!;🌟+Let's+build+the+future+together!" />
 
 <br/>
 
