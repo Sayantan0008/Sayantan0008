@@ -349,9 +349,11 @@ const sayantan: Developer = {
 <div align="center">
 
 <!-- Final Animated Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=ff6b6b&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%E2%9C%A8+Thanks+for+Visiting+My+Digital+Universe!+%E2%9C%A8;🚀+Star+my+repos+if+you+find+them+useful!;🌟+Let%27s+build+the+future+together%2C+one+commit+at+a+time!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=ff6b6b&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%E2%9C%A8+Thanks+for+Visiting+My+Digital+Universe%21+%E2%9C%A8;%F0%9F%9A%80+Star+my+repos+if+you+find+them+useful%21;%F0%9F%8C%9F+Let%27s+build+the+future+together%2C+one+commit+at+a+time%21" />
 
 <br/>
+
+
 
 
 <!-- Footer Wave -->
