@@ -69,9 +69,10 @@ const sayantan: Developer = {
 <br/>
 
 <!-- Dynamic Role Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&width=800&lines=🎓+Engineer+by+Training%2C+AI+Technologist+by+Choice;🧠+Passionate+about+Intelligent+Systems;🔥+Explorer+of+LLMs%2C+GenAI%2C+and+MLOps;🌍+Turning+Chaos+into+Elegant+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&width=800&lines=%F0%9F%8E%93+Engineer+by+Training%2C+AI+Technologist+by+Choice%3B%F0%9F%A7%A0+Passionate+about+Intelligent+Systems%3B%F0%9F%94%A5+Explorer+of+LLMs%2C+GenAI%2C+and+MLOps%3B%F0%9F%8C%8D+Turning+Chaos+into+Elegant+Software" />
 
 <br/>
+
 
 <!-- Animated Skill Badges -->
 <img src="https://img.shields.io/badge/🤖_AI_Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
