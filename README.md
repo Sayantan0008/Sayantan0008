@@ -287,9 +287,10 @@ const sayantan: Developer = {
 <br/><br/>
 
 <!-- Contact Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+%F0%9F%9A%80;Drop+a+star+⭐+if+you+liked+my+work!;Let's+code+the+future+together!;Always+open+to+collaborate!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=f76c6c&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+%F0%9F%9A%80;Drop+a+star+%E2%AD%90+if+you+liked+my+work!;Let%27s+code+the+future+together!;Always+open+to+collaborate!" />
 
 <br/>
+
 
 <!-- Fun Coding Stats -->
 <table>
