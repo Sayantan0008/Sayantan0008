@@ -1,15 +1,21 @@
 # 🌟 Sayantan's Digital Universe
 
 <div align="center">
-  
+
 <!-- Animated Header with Wave Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Sayantan's%20World&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&fontSize=50&animation=twinkling&fontColor=ffffff" />
+
+<br/>
 
 <!-- Profile Views with Animated Counter -->
 <img src="https://komarev.com/ghpvc/?username=Sayantan0008&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=000000" alt="visitor counter"/>
 
+<br/><br/>
+
 <!-- Typing Animation - Fixed Text Issues -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=500&center=true&vCenter=true&width=800&height=70&lines=Hey+%F0%9F%91%8B+I'm+Sayantan!;Software+Engineer+%7C+AI+Builder;Turning+Ideas+into+Impact;Welcome+to+My+Digital+Space!;Let's+Build+the+Future+Together!" alt="Typing Animation" />
+
+<br/><br/>
 
 <!-- Snake Animation -->
 <picture>
@@ -25,21 +31,57 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
-</div>
 
-```yaml
-name: Sayantan Ghatak
-profession: Software Engineer & AI Enthusiast
-location: Building the Future, One Line at a Time
-current_focus: 
-  - 🤖 Large Language Models & GenAI
-  - ⚡ MLOps & Scalable AI Systems  
-  - 🔧 Full-Stack Development
-  - 🌊 Turning Chaos into Elegant Code
-passion: Creating Technology That Thinks & Evolves
-motto: "Code is Poetry, Make it Beautiful"
+<table>
+<tr>
+<td align="center" width="50%">
+  
+**🚀 The Journey**
+  
+*From curious coder to AI architect*
+
+```javascript
+const sayantan = {
+  role: "Software Engineer & AI Enthusiast",
+  location: "Building Tomorrow's Tech Today 🌍",
+  languages: ["Python", "JavaScript", "C++", "Java"],
+  currentlyLearning: "Advanced AI/ML Systems",
+  funFact: "I debug in my dreams 😴💻"
+};
 ```
+
+</td>
+<td align="center" width="50%">
+
+**🎯 Current Focus**
+
+🤖 **Large Language Models & GenAI**  
+⚡ **MLOps & Scalable AI Systems**  
+🔧 **Full-Stack Development**  
+🌊 **Turning Chaos into Elegant Code**  
+
+<br/>
+
+*🏆 "Creating Technology That Thinks & Evolves"*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated Programming Languages -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💡+Innovation+through+Code;🔮+AI+%7C+Machine+Learning+%7C+Deep+Tech;⚡+Scalable+Systems+%7C+Cloud+Architecture;🎨+Beautiful+Code+%7C+Elegant+Solutions" />
+
+<br/>
+
+<!-- Dynamic Stats Cards -->
+<img src="https://img.shields.io/badge/Code_Lines_Written-50K+-FF6B6B?style=for-the-badge&logo=gitlines&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects_Built-20+-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Coffee_Consumed-∞-F7DC6F?style=for-the-badge&logo=coffee&logoColor=black" />
+<img src="https://img.shields.io/badge/Bugs_Fixed-Many-45B7D1?style=for-the-badge&logo=bug&logoColor=white" />
+
+</div>
 
 <div align="center">
   
@@ -212,9 +254,11 @@ Other        1 hr            █░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  
+
 <!-- Final Animated Message -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thanks+for+Visiting+My+Digital+Space!+%F0%9F%9A%80;Star+%E2%AD%90+My+Repos+if+You+Like+My+Work!;Let's+Code+the+Future+Together!+%F0%9F%8C%9F" />
+
+<br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer" />
