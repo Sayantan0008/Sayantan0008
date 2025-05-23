@@ -265,7 +265,6 @@ const sayantan: Developer = {
 <!-- Philosophy Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=gradient&center=true&vCenter=true&width=800&lines=💡+Code+is+Art%2C+Make+it+Beautiful;🔥+Learn+Fast%2C+Build+Faster;🌟+Every+Bug+is+a+Feature+Request;✨+Dream+in+Code%2C+Think+in+Algorithms" />
 
-</div>
 
 ---
 
