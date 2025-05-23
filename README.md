@@ -195,7 +195,7 @@ const sayantan: Developer = {
 <!-- Animated Stats -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f85149&center=true&vCenter=true&width=800&lines=📊+Consistently+Contributing+to+Open+Source;🔥+Building+and+Learning+Every+Day;💡+Turning+Coffee+into+Code;⚡+Growing+the+GitHub+Green+Squares!" />
 
-</div>
+
 
 ---
 
