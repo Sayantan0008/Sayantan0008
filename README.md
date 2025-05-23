@@ -20,7 +20,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&center=true&vCenter=true&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Sayantan!;Software+Engineer+%7C+AI+Builder;Tech+Explorer+%7C+Problem+Solver;Turning+Ideas+into+Impact;Welcome+to+My+Digital+Space!" alt="Typing Animation" />
 <br/><br/>
 <!-- Alternative Snake Animation -->
-<img src="https://github.com/Sayantan0008/Sayantan0008/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
+
+![Snake Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE4YjA1M2Q1NDVhZTA0ZjNkZjZhZjQ1ZTU5N2M3MjAxYjNmZGIyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kN0Prd4NMoX5o/giphy.gif)
+
 </div>
 
 🚀 About Me
