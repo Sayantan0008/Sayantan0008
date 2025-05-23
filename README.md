@@ -1,342 +1,85 @@
-# 🌟 Sayantan's Digital Universe
+<!-- GitHub Profile README -->
 
-<div align="center">
-
-<!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome%20to%20Sayantan's%20World!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&fontSize=45&animation=fadeIn&fontColor=ffffff" />
-
-<br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Sayantan0008&style=for-the-badge&color=F76900&label=Profile+Views&labelColor=000000" alt="visitor counter"/>
-
-<br/><br/>
-
-<!-- Fixed Typing Animation with Proper Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&center=true&vCenter=true&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Sayantan!;Software+Engineer+%7C+AI+Builder;Tech+Explorer+%7C+Problem+Solver;Turning+Ideas+into+Impact;Welcome+to+My+Digital+Space!" alt="Typing Animation" />
-
-<br/><br/>
-
-<!-- Alternative Snake Animation -->
-<img src="https://github.com/Sayantan0008/Sayantan0008/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
-
-</div>
+<!-- Animated Headers -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sayantan+%F0%9F%91%8B;Engineer+%7C+Learner+%7C+Tech+Enthusiast;Always+building+cool+things!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
-
-<div align="center">
-
-<!-- Animated About Section -->
-<table align="center">
-<tr>
-<td align="center" width="700">
-
-```typescript
-interface Developer {
-  name: string;
-  role: string[];
-  passion: string;
-  mission: string;
-  currentFocus: string[];
-  techPhilosophy: string;
-}
-
-const sayantan: Developer = {
-  name: "Sayantan Ghatak",
-  role: ["🎓 Engineer by Training", "🧠 AI Technologist by Choice"],
-  passion: "Building things that think, learn, and evolve 🤖",
-  mission: "Turn real-world chaos into elegant software 🌍",
-  currentFocus: [
-    "🤖 Large Language Models & GenAI",
-    "⚡ MLOps & Scalable Systems",
-    "🌐 Full-Stack Development",
-    "🔬 AI-Powered Solutions"
-  ],
-  techPhilosophy: "Tech is not just code; it's craft. Build art that runs. 🎨"
-};
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Dynamic Role Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🎓+Engineer+by+Training%2C+AI+Technologist+by+Choice;🧠+Passionate+about+Intelligent+Systems;🔥+Explorer+of+LLMs%2C+GenAI%2C+and+MLOps;🌍+Turning+Chaos+into+Elegant+Software" />
-
-<br/>
-
-<!-- Animated Skill Badges -->
-<img src="https://img.shields.io/badge/🤖_AI_Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/💻_Full_Stack-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔬_ML_Engineer-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/🚀_Problem_Solver-F7DC6F?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
-
-</div>
+<!-- Profile Counters -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayantanmondal01&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanmondal01"/>
+  <img src="https://img.shields.io/github/followers/sayantanmondal01?label=Followers&style=social" alt="followers"/>
+</p>
 
 ---
 
-## ⚒️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,typescript,react,nextjs,flask,fastapi,nodejs,express,django,postgres,mongodb,mysql,redis,sqlite,docker,aws,linux,git,github,tensorflow,pytorch,opencv,vscode&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<!-- Tech Skills Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+AI%2FML+%7C+LLMs+%7C+GenAI;React+%7C+Node.js+%7C+FastAPI+%7C+Flask;Docker+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Always+Learning+New+Technologies!" />
-
-</div>
+<!-- About Section -->
+### 👋 About Me
+<p align="center">
+  I'm <strong>Sayantan</strong>, a passionate engineer and lifelong learner from India 🇮🇳. I enjoy building smart applications, solving real-world problems, and diving deep into all things tech.
+</p>
+<p align="center">
+  💡 Always curious | 🤖 AI Explorer | 🌐 Web Developer | 💪 Gym Bro
+</p>
+<p align="center">
+  Let's connect, collaborate, and create awesome things together!
+</p>
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<!-- Project Cards with Enhanced Styling -->
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 AI Study Buddy
-<a href="https://github.com/Sayantan0008/ai-study-buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15" />
-</a>
-
-**🧠 Intelligent Learning Companion**
-- 🤖 LLM-powered personalized tutoring
-- 📚 Adaptive learning algorithms  
-- 🎨 Interactive UI with modern design
-- ⚡ Real-time AI assistance
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-
-</td>
-<td align="center" width="50%">
-
-### 📰 NewsBite
-<a href="https://github.com/Sayantan0008/newsbite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff&border_radius=15" />
-</a>
-
-**🔍 Smart News Aggregation**
-- 🔍 AI-driven content curation
-- ⚡ Real-time news processing
-- 📱 Responsive web application
-- 🎯 Personalized recommendations
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- More Projects Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Check+out+my+other+repositories!;More+exciting+projects+coming+soon!;Always+building+something+new!" />
-
-<!-- Project Stats -->
-<img src="https://img.shields.io/badge/🎯_Active_Projects-8+-FF6B6B?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/⭐_GitHub_Stars-Growing-4ECDC4?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔥_Languages_Used-8+-F7DC6F?style=for-the-badge&labelColor=000000" />
-
-</div>
+<!-- Dynamic Skill Badges -->
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nextjs,tailwind,nodejs,express,flask,fastapi,mongodb,postgres,sqlite,firebase,git,github,linux,vscode,figma" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- Tech Stack Visuals -->
+### 🚀 Current Stack
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=3&languages=python,fastapi,sqlite,flask,cpp,html,tailwind,react,nodejs,js" />
+</p>
 
-<div align="center">
+---
+
+<!-- Featured Projects Section -->
+### 🌟 Featured Projects
+- 🧠 [AI Study Buddy](https://github.com/sayantanmondal01/ai-study-buddy)
+- 🎁 [AI Gift Recommender](https://github.com/sayantanmondal01/ai-gift-bot)
+- 🧬 [OncoAssist](https://github.com/sayantanmondal01/oncoassist)
+- 📰 [NewsBite](https://github.com/sayantanmondal01/newsbite)
+
+---
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sayantan0008&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sayantan0008&theme=radical&hide_border=true" height="180" />
-
-<br/>
-
-<!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-<br/>
-
-<!-- Animated Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f85149&center=true&vCenter=true&width=800&lines=📊+Consistently+Contributing+to+Open+Source;🔥+Building+and+Learning+Every+Day;💡+Turning+Coffee+into+Code;⚡+Growing+the+GitHub+Green+Squares!" />
-
-</div>
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayantanmondal01&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanmondal01&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sayantan0008&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-
-<br/>
-
-<!-- Achievement Badges -->
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯_Commits-1000+-FF6B6B?style=for-the-badge&labelColor=000000" />
-<br/><strong>Consistent Contributor</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📁_Repositories-12+-4ECDC4?style=for-the-badge&labelColor=000000" />
-<br/><strong>Project Creator</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌟_Languages-8+-F7DC6F?style=for-the-badge&labelColor=000000" />
-<br/><strong>Polyglot Developer</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡_Active_Days-300+-45B7D1?style=for-the-badge&labelColor=000000" />
-<br/><strong>Daily Coder</strong>
-</td>
-</tr>
-</table>
-
-</div>
+<!-- Achievements / Trophies -->
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayantanmondal01&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 💭 Philosophy & Mindset
-
-<div align="center">
-
-<!-- Philosophy Card -->
-<table>
-<tr>
-<td align="center">
-
-```ascii
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│  💡 "Tech is not just code; it's craft.                    │
-│      Build art that runs." 🎨                              │
-│                                                             │
-│  🧠 Think Different. Code Different.                        │
-│  💎 Every Problem is a Learning Opportunity.               │
-│  🚀 Innovation Happens at the Intersection of Ideas.       │
-│                                                             │
-│          ⚡ "Turning Chaos into Elegant Solutions" ⚡       │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
-<!-- Philosophy Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=💡+Code+is+Art%2C+Make+it+Beautiful;🔥+Learn+Fast%2C+Build+Faster;🌟+Every+Bug+is+a+Feature+Request;✨+Dream+in+Code%2C+Think+in+Algorithms" />
-
-</div>
+<!-- Personal Philosophy -->
+### 💬 Philosophy
+> "Stay curious, keep building, and help others grow with you."
 
 ---
 
-## 🌐 Connect & Collaborate
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
-<div align="center">
+<!-- End of README -->
 
-<!-- Enhanced Social Links -->
-<a href="mailto:sayantanghatak08@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://github.com/Sayantan0008">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://linkedin.com/in/sayantan0008">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-
-<br/><br/>
-
-<!-- Contact Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+🚀;Drop+a+star+⭐+if+you+liked+my+work!;Let's+code+the+future+together!;Always+open+to+collaborate!" />
-
-<br/>
-
-<!-- Fun Coding Stats -->
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-8B4513?style=for-the-badge&logoColor=white" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🌙_Late_Night_Commits-Many-191970?style=for-the-badge&logoColor=white" />
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🧠_Problems_Solved-Countless-32CD32?style=for-the-badge&logoColor=white" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**⏰ Peak Coding Hours**
-```
-🌅 Early Morning ████░░░░░░ 40%
-🌞 Day Time      ████████░░ 80%  
-🌆 Evening       ██████████ 95%
-🌙 Night Owl     ████████░░ 75%
-```
-
-</td>
-<td align="center" width="50%">
-
-**💻 This Week's Focus**
-```
-🤖 AI/ML Projects:    35%
-🌐 Web Development:   30%
-📚 Learning:          20%
-🔧 Open Source:       15%
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Final Animated Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&height=100&lines=✨+Thanks+for+Visiting+My+Digital+Universe!+✨;🚀+Star+my+repos+if+you+find+them+useful!;🌟+Let's+build+the+future+together!" />
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer" />
-
-<!-- Quote -->
-**💫 "In a world full of algorithms, be the human touch that makes technology meaningful." 💫**
-
-</div>
