@@ -2,22 +2,36 @@
 
 <div align="center">
 
-## Welcome to Sayantan's World! 👋
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome%20to%20Sayantan's%20World!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sayantan0008&style=for-the-badge&color=F76900&label=Profile+Views&labelColor=000000)](https://github.com/Sayantan0008)
+<br/>
 
-### Hey! I'm Sayantan 🚀
-**Software Engineer | AI Builder | Tech Explorer | Problem Solver**
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Sayantan0008&style=for-the-badge&color=F76900&label=Profile+Views&labelColor=000000" alt="visitor counter"/>
 
-*Turning Ideas into Impact*
+<br/><br/>
 
----
+<!-- Fixed Typing Animation with Proper Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&center=true&vCenter=true&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Sayantan!;Software+Engineer+%7C+AI+Builder;Tech+Explorer+%7C+Problem+Solver;Turning+Ideas+into+Impact;Welcome+to+My+Digital+Space!" alt="Typing Animation" />
+
+<br/><br/>
+
+<!-- Alternative Snake Animation -->
+<img src="https://github.com/Sayantan0008/Sayantan0008/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
 
 </div>
+
+---
 
 ## 🚀 About Me
 
 <div align="center">
+
+<!-- Animated About Section -->
+<table align="center">
+<tr>
+<td align="center" width="700">
 
 ```typescript
 interface Developer {
@@ -36,7 +50,7 @@ const sayantan: Developer = {
   mission: "Turn real-world chaos into elegant software 🌍",
   currentFocus: [
     "🤖 Large Language Models & GenAI",
-    "⚡ MLOps & Scalable Systems", 
+    "⚡ MLOps & Scalable Systems",
     "🌐 Full-Stack Development",
     "🔬 AI-Powered Solutions"
   ],
@@ -44,15 +58,22 @@ const sayantan: Developer = {
 };
 ```
 
-**🎓 Engineer by Training, AI Technologist by Choice**  
-**🧠 Passionate about Intelligent Systems**  
-**🔥 Explorer of LLMs, GenAI, and MLOps**  
-**🌍 Turning Chaos into Elegant Software**
+</td>
+</tr>
+</table>
 
-[![AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000)](https://github.com/Sayantan0008)
-[![Full Stack](https://img.shields.io/badge/💻_Full_Stack-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000)](https://github.com/Sayantan0008)
-[![ML Engineer](https://img.shields.io/badge/🔬_ML_Engineer-45B7D1?style=for-the-badge&logoColor=white&labelColor=000000)](https://github.com/Sayantan0008)
-[![Problem Solver](https://img.shields.io/badge/🚀_Problem_Solver-F7DC6F?style=for-the-badge&labelColor=000000)](https://github.com/Sayantan0008)
+<br/>
+
+<!-- Dynamic Role Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🎓+Engineer+by+Training%2C+AI+Technologist+by+Choice;🧠+Passionate+about+Intelligent+Systems;🔥+Explorer+of+LLMs%2C+GenAI%2C+and+MLOps;🌍+Turning+Chaos+into+Elegant+Software" />
+
+<br/>
+
+<!-- Animated Skill Badges -->
+<img src="https://img.shields.io/badge/🤖_AI_Engineer-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/💻_Full_Stack-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔬_ML_Engineer-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🚀_Problem_Solver-F7DC6F?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
 
 </div>
 
@@ -62,40 +83,16 @@ const sayantan: Developer = {
 
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,typescript,react,nextjs,flask,fastapi,nodejs,express,django,postgres,mongodb,mysql,redis,sqlite,docker,aws,linux,git,github,tensorflow,pytorch,opencv,vscode&theme=dark" />
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI/ML & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Python | AI/ML | LLMs | GenAI | React | Node.js | FastAPI | Flask | Docker | AWS | PostgreSQL | MongoDB**
+<!-- Tech Skills Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+AI%2FML+%7C+LLMs+%7C+GenAI;React+%7C+Node.js+%7C+FastAPI+%7C+Flask;Docker+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Always+Learning+New+Technologies!" />
 
 </div>
 
@@ -105,8 +102,15 @@ const sayantan: Developer = {
 
 <div align="center">
 
+<!-- Project Cards with Enhanced Styling -->
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🤖 AI Study Buddy
-[![AI Study Buddy](https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15)](https://github.com/Sayantan0008/ai-study-buddy)
+<a href="https://github.com/Sayantan0008/ai-study-buddy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15" />
+</a>
 
 **🧠 Intelligent Learning Companion**
 - 🤖 LLM-powered personalized tutoring
@@ -114,14 +118,17 @@ const sayantan: Developer = {
 - 🎨 Interactive UI with modern design
 - ⚡ Real-time AI assistance
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 
----
+</td>
+<td align="center" width="50%">
 
 ### 📰 NewsBite
-[![NewsBite](https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff&border_radius=15)](https://github.com/Sayantan0008/newsbite)
+<a href="https://github.com/Sayantan0008/newsbite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff&border_radius=15" />
+</a>
 
 **🔍 Smart News Aggregation**
 - 🔍 AI-driven content curation
@@ -129,17 +136,23 @@ const sayantan: Developer = {
 - 📱 Responsive web application
 - 🎯 Personalized recommendations
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" />
 
----
+</td>
+</tr>
+</table>
 
-**Check out my other repositories! More exciting projects coming soon!**
+<br/>
 
-[![Active Projects](https://img.shields.io/badge/🎯_Active_Projects-8+-FF6B6B?style=for-the-badge&labelColor=000000)](https://github.com/Sayantan0008?tab=repositories)
-[![GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-Growing-4ECDC4?style=for-the-badge&labelColor=000000)](https://github.com/Sayantan0008)
-[![Languages Used](https://img.shields.io/badge/🔥_Languages_Used-8+-F7DC6F?style=for-the-badge&labelColor=000000)](https://github.com/Sayantan0008)
+<!-- More Projects Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Check+out+my+other+repositories!;More+exciting+projects+coming+soon!;Always+building+something+new!" />
+
+<!-- Project Stats -->
+<img src="https://img.shields.io/badge/🎯_Active_Projects-8+-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/⭐_GitHub_Stars-Growing-4ECDC4?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔥_Languages_Used-8+-F7DC6F?style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -149,17 +162,19 @@ const sayantan: Developer = {
 
 <div align="center">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayantan0008&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sayantan0008&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sayantan0008&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sayantan0008&theme=radical&hide_border=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<br/>
 
-**📊 Consistently Contributing to Open Source**  
-**🔥 Building and Learning Every Day**  
-**💡 Turning Coffee into Code**  
-**⚡ Growing the GitHub Green Squares!**
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+<br/>
+
+<!-- Animated Stats -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f85149&center=true&vCenter=true&width=800&lines=📊+Consistently+Contributing+to+Open+Source;🔥+Building+and+Learning+Every+Day;💡+Turning+Coffee+into+Code;⚡+Growing+the+GitHub+Green+Squares!" />
 
 </div>
 
@@ -169,14 +184,32 @@ const sayantan: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sayantan0008&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sayantan0008&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
-| Achievement | Status | Achievement | Status |
-|:-----------:|:------:|:-----------:|:------:|
-| 🎯 **Commits** | **1000+** | 📁 **Repositories** | **12+** |
-| **Consistent Contributor** | ✅ | **Project Creator** | ✅ |
-| 🌟 **Languages** | **8+** | ⚡ **Active Days** | **300+** |
-| **Polyglot Developer** | ✅ | **Daily Coder** | ✅ |
+<br/>
+
+<!-- Achievement Badges -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯_Commits-1000+-FF6B6B?style=for-the-badge&labelColor=000000" />
+<br/><strong>Consistent Contributor</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📁_Repositories-12+-4ECDC4?style=for-the-badge&labelColor=000000" />
+<br/><strong>Project Creator</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌟_Languages-8+-F7DC6F?style=for-the-badge&labelColor=000000" />
+<br/><strong>Polyglot Developer</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡_Active_Days-300+-45B7D1?style=for-the-badge&labelColor=000000" />
+<br/><strong>Daily Coder</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -186,7 +219,12 @@ const sayantan: Developer = {
 
 <div align="center">
 
-```
+<!-- Philosophy Card -->
+<table>
+<tr>
+<td align="center">
+
+```ascii
 ╭─────────────────────────────────────────────────────────────╮
 │                                                             │
 │  💡 "Tech is not just code; it's craft.                    │
@@ -201,10 +239,12 @@ const sayantan: Developer = {
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
-**💡 Code is Art, Make it Beautiful**  
-**🔥 Learn Fast, Build Faster**  
-**🌟 Every Bug is a Feature Request**  
-**✨ Dream in Code, Think in Algorithms**
+</td>
+</tr>
+</table>
+
+<!-- Philosophy Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&lines=💡+Code+is+Art%2C+Make+it+Beautiful;🔥+Learn+Fast%2C+Build+Faster;🌟+Every+Bug+is+a+Feature+Request;✨+Dream+in+Code%2C+Think+in+Algorithms" />
 
 </div>
 
@@ -214,18 +254,38 @@ const sayantan: Developer = {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sayantanghatak08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Sayantan0008)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/sayantan0008)
+<!-- Enhanced Social Links -->
+<a href="mailto:sayantanghatak08@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/Sayantan0008">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://linkedin.com/in/sayantan0008">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
 
-**Thanks for scrolling! 🚀**  
-**Drop a star ⭐ if you liked my work!**  
-**Let's code the future together!**  
-**Always open to collaborate!**
+<br/><br/>
 
-| Fun Stat | Value | Fun Stat | Value | Fun Stat | Value |
-|:--------:|:-----:|:--------:|:-----:|:--------:|:-----:|
-| ☕ **Coffee Consumed** | **∞** | 🌙 **Late Night Commits** | **Many** | 🧠 **Problems Solved** | **Countless** |
+<!-- Contact Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+🚀;Drop+a+star+⭐+if+you+liked+my+work!;Let's+code+the+future+together!;Always+open+to+collaborate!" />
+
+<br/>
+
+<!-- Fun Coding Stats -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-8B4513?style=for-the-badge&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌙_Late_Night_Commits-Many-191970?style=for-the-badge&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧠_Problems_Solved-Countless-32CD32?style=for-the-badge&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -235,12 +295,32 @@ const sayantan: Developer = {
 
 <div align="center">
 
-| ⏰ **Peak Coding Hours** | 💻 **This Week's Focus** |
-|:------------------------:|:------------------------:|
-| 🌅 Early Morning: ████░░░░░░ 40% | 🤖 AI/ML Projects: 35% |
-| 🌞 Day Time: ████████░░ 80% | 🌐 Web Development: 30% |
-| 🌆 Evening: ██████████ 95% | 📚 Learning: 20% |
-| 🌙 Night Owl: ████████░░ 75% | 🔧 Open Source: 15% |
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⏰ Peak Coding Hours**
+```
+🌅 Early Morning ████░░░░░░ 40%
+🌞 Day Time      ████████░░ 80%  
+🌆 Evening       ██████████ 95%
+🌙 Night Owl     ████████░░ 75%
+```
+
+</td>
+<td align="center" width="50%">
+
+**💻 This Week's Focus**
+```
+🤖 AI/ML Projects:    35%
+🌐 Web Development:   30%
+📚 Learning:          20%
+🔧 Open Source:       15%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -248,12 +328,15 @@ const sayantan: Developer = {
 
 <div align="center">
 
-## ✨ Thanks for Visiting My Digital Universe! ✨
-### 🚀 Star my repos if you find them useful!
-### 🌟 Let's build the future together!
+<!-- Final Animated Message -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&height=100&lines=✨+Thanks+for+Visiting+My+Digital+Universe!+✨;🚀+Star+my+repos+if+you+find+them+useful!;🌟+Let's+build+the+future+together!" />
 
----
+<br/>
 
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer" />
+
+<!-- Quote -->
 **💫 "In a world full of algorithms, be the human touch that makes technology meaningful." 💫**
 
 </div>
