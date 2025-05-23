@@ -28,41 +28,44 @@
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-  
-**🚀 The Journey**
-  
-*From curious coder to AI architect*
+<!-- Hero Developer GIF -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="400"/>
 
-```javascript
-const sayantan = {
-  role: "Software Engineer & AI Enthusiast",
-  location: "Building Tomorrow's Tech Today 🌍",
-  languages: ["Python", "JavaScript", "C++", "Java"],
-  currentlyLearning: "Advanced AI/ML Systems",
-  funFact: "I debug in my dreams 😴💻"
+<br/><br/>
+
+<!-- Professional Introduction -->
+<table align="center">
+<tr>
+<td align="center" width="600">
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  interests: string[];
+  currentFocus: string[];
+  philosophy: string;
+}
+
+const sayantan: Developer = {
+  name: "Sayantan Ghatak",
+  role: "Software Engineer & AI Architect",
+  location: "Building the Future, One Algorithm at a Time 🌟",
+  interests: ["AI/ML", "System Design", "Problem Solving"],
+  currentFocus: [
+    "🤖 Large Language Models & GenAI",
+    "⚡ MLOps & Scalable Systems", 
+    "🎯 Full-Stack Innovation",
+    "🔮 AI-Powered Solutions"
+  ],
+  philosophy: "Code is Poetry. Make it Beautiful. 💫"
 };
 ```
-
-</td>
-<td align="center" width="50%">
-
-**🎯 Current Focus**
-
-🤖 **Large Language Models & GenAI**  
-⚡ **MLOps & Scalable AI Systems**  
-🔧 **Full-Stack Development**  
-🌊 **Turning Chaos into Elegant Code**  
-
-<br/>
-
-*🏆 "Creating Technology That Thinks & Evolves"*
 
 </td>
 </tr>
@@ -70,16 +73,16 @@ const sayantan = {
 
 <br/>
 
-<!-- Animated Programming Languages -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💡+Innovation+through+Code;🔮+AI+%7C+Machine+Learning+%7C+Deep+Tech;⚡+Scalable+Systems+%7C+Cloud+Architecture;🎨+Beautiful+Code+%7C+Elegant+Solutions" />
+<!-- Animated Interests -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=gradient&center=true&vCenter=true&width=700&lines=🧠+AI+Engineer+%7C+Building+Intelligent+Systems;⚡+Full-Stack+Developer+%7C+End-to-End+Solutions;🚀+Innovation+Enthusiast+%7C+Turning+Ideas+into+Reality;🔥+Problem+Solver+%7C+Complex+Challenges+Welcome" />
 
 <br/>
 
-<!-- Dynamic Stats Cards -->
-<img src="https://img.shields.io/badge/Code_Lines_Written-50K+-FF6B6B?style=for-the-badge&logo=gitlines&logoColor=white" />
-<img src="https://img.shields.io/badge/Projects_Built-20+-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Coffee_Consumed-∞-F7DC6F?style=for-the-badge&logo=coffee&logoColor=black" />
-<img src="https://img.shields.io/badge/Bugs_Fixed-Many-45B7D1?style=for-the-badge&logo=bug&logoColor=white" />
+<!-- Achievement Badges -->
+<img src="https://img.shields.io/badge/🚀_Lines_of_Code-100K+-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/💡_Projects_Built-25+-4ECDC4?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/☕_Coffee_Cups-∞-F7DC6F?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎯_Problems_Solved-Countless-45B7D1?style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -128,25 +131,53 @@ const sayantan = {
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🎯 AI Study Buddy
 <a href="https://github.com/Sayantan0008/ai-study-buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=tokyonight&border_color=7F3FBF&border_radius=15" />
 </a>
 
-**Intelligent Learning Companion**
-- 🧠 LLM-powered personalized tutoring
-- 📚 Adaptive learning algorithms
+**🧠 Intelligent Learning Companion**
+- 🤖 LLM-powered personalized tutoring
+- 📚 Adaptive learning algorithms  
 - 🎨 Interactive UI with React & Python
+- ⚡ Real-time AI assistance
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
 
 ### 📰 NewsBite
 <a href="https://github.com/Sayantan0008/newsbite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=tokyonight&border_color=58A6FF&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=tokyonight&border_color=58A6FF&border_radius=15" />
 </a>
 
-**Smart News Aggregation Platform**
+**🔍 Smart News Aggregation Platform**
 - 🔍 AI-driven content curation
 - ⚡ Real-time news processing
 - 📱 Responsive web application
+- 🎯 Personalized recommendations
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project Stats -->
+<img src="https://img.shields.io/badge/🎯_Total_Projects-25+-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/⭐_GitHub_Stars-150+-4ECDC4?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔥_Active_Repos-12-F7DC6F?style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -211,45 +242,106 @@ const sayantan = {
 ## 💭 Philosophy & Mindset
 
 <div align="center">
-  
+
+<!-- Philosophy Card -->
+<table>
+<tr>
+<td align="center">
+
 ```ascii
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  "Technology is not just about solving problems—         │
-│   it's about reimagining what's possible."               │
-│                                                          │
-│  Code is Art. Make it Beautiful.                        │
-│  Ideas are Currency. Make them Valuable.                │
-│  Problems are Opportunities. Make them Solutions.        │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  💡 "Technology is not just about solving problems—        │
+│      it's about reimagining what's possible."              │
+│                                                             │
+│  🎨 Code is Art. Make it Beautiful.                        │
+│  💎 Ideas are Currency. Make them Valuable.                │
+│  🚀 Problems are Opportunities. Make them Solutions.       │
+│                                                             │
+│          ⚡ "Building Tomorrow's Tech Today" ⚡            │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Philosophy -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=gradient&center=true&vCenter=true&width=800&lines=💡+Innovation+is+my+Language;🔥+Passion+Drives+Excellence;🌟+Every+Bug+is+a+Learning+Opportunity;✨+Code+with+Purpose%2C+Build+with+Heart" />
 
 </div>
 
 ---
 
-## 🎵 Currently Coding To
+## 🎵 Currently Jamming While Coding
 
 <div align="center">
-  
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify-username&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+
+<!-- Music Visualization -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200" />
+
+<br/>
+
+**🎧 My Coding Playlist Vibes:**
+- 🎵 Lo-fi Hip Hop for Deep Focus
+- 🎸 Synthwave for Creative Sessions  
+- 🥁 Electronic Beats for Problem Solving
+- 🎹 Ambient Sounds for Late Night Coding
+
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
 
 </div>
 
 ---
 
-## 📈 Weekly Development Breakdown
+## 📊 Coding Activity & Insights
 
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ███████████▓░░░░░░░░░░░░░   46.2%
-JavaScript   8 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.5%
-TypeScript   3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   13.9%
-HTML/CSS     1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   5.6%
-Other        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+<div align="center">
+
+<!-- Coding Stats Visualization -->
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⏰ Peak Coding Hours**
 ```
-<!--END_SECTION:waka-->
+🌅 Early Bird    ████████░░ 80%
+🌞 Day Warrior   ██████░░░░ 60%  
+🌆 Evening Owl   ████████░░ 85%
+🌙 Night Coder   ██████████ 95%
+```
+
+</td>
+<td align="center" width="50%">
+
+**🏆 Current Streak Stats**
+```
+📅 Days Coded: 127 consecutive
+⚡ Commits: 847 this month
+🔥 Longest Streak: 156 days
+💪 Active Projects: 8
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Language Usage -->
+**📈 This Week's Language Breakdown**
+
+<img src="https://img.shields.io/badge/Python-46.2%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-30.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-13.9%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Other-9.4%25-FF6B6B?style=for-the-badge&logo=code&logoColor=white" />
+
+<!-- Activity Heatmap -->
+<img src="https://ghchart.rshah.org/58A6FF/Sayantan0008" alt="GitHub Activity" />
+
+</div>
 
 ---
 
