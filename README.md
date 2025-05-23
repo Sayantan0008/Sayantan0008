@@ -1,68 +1,70 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey!+I'm+Sayantan;Engineer+%7C+AI+Ninja+%7C+Code+Artist;Welcome+to+My+Universe+🌌" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&center=true&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+I'm+Sayantan!;Engineer+%7C+AI+Builder+%7C+Tech+Explorer;Turning+Ideas+into+Impactful+Projects" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.svg" width="100%" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%" />
 </p>
 
 ---
 
-## 🔭 Current Focus
+### 🌟 About Me
 
-- 🔧 Crafting seamless **APIs** with FastAPI & Flask  
-- 🧠 Building **LLM-powered tools** with Gemini + FAISS  
-- 🎯 Deploying scalable apps on **AWS, Vercel & Hugging Face Spaces**  
-- 💬 Experimenting with **AI agents** and **multilingual interfaces**
-
----
-
-## 🚀 Featured Projects
-
-💡 **AI Study Buddy**  
-> _Your 24/7 intelligent academic assistant_  
-🌐 [View Project](https://github.com/Sayantan0008/ai-study-buddy.git)
-
-
-📰 **NewsBite**  
-> _Instant article summarization using Transformers_  
-🌐 [View Project](https://github.com/Sayantan0008/NewsBite.git)
+💻 Engineering mind who builds with **Python, AI, and APIs**  
+🧠 Loves working on projects with **real-world impact**  
+🔭 Currently exploring **GenAI**, **MLOps**, and **cloud-native architectures**  
+🎯 Mission: Create systems that learn, adapt, and deliver value
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,flask,tailwind,postgres,mongodb,docker,aws,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,flask,fastapi,nodejs,postgres,mongodb,docker,aws,vscode,github,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streaks
+### 🚀 My Highlight Projects
+
+> Click to explore 👇
+
+<table align="center">
+<tr>
+  <td align="center" width="33%">
+    <a href="https://github.com/yourusername/ai-study-buddy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-study-buddy&theme=tokyonight" />
+    </a>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://github.com/yourusername/oncoassist">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=oncoassist&theme=tokyonight" />
+    </a>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://github.com/yourusername/newsbite">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=newsbite&theme=tokyonight" />
+    </a>
+  </td>
+</tr>
+</table>
+
+---
+
+### 📊 Stats That Speak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+### 🎯 Philosophy
 
-<p align="center">
-  <a href="mailto:sayantan.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-## 🧠 Fun Fact
-
-```diff
-+ I automate tasks that others spend hours doing manually.
-- I don’t just write code; I design intelligent systems.
+```txt
+"Don't just build projects. Build engines of change."
