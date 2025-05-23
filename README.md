@@ -17,12 +17,8 @@
 
 <br/><br/>
 
-<!-- Enhanced Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="80%">
-</picture>
+<!-- Alternative Snake Animation -->
+<img src="https://github.com/Sayantan0008/Sayantan0008/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="80%" />
 
 </div>
 
@@ -166,14 +162,14 @@ const sayantan: Developer = {
 
 <div align="center">
 
-<!-- Enhanced GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sayantan0008&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20Sayantan's%20GitHub%20Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sayantan0008&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=450" height="180" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sayantan0008&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sayantan0008&theme=radical&hide_border=true" height="180" />
 
 <br/>
 
-<!-- Language Stats with Custom Title -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=500" />
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan0008&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 <br/>
 
@@ -280,7 +276,7 @@ const sayantan: Developer = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+<img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-8B4513?style=for-the-badge&logoColor=white" />
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🌙_Late_Night_Commits-Many-191970?style=for-the-badge&logoColor=white" />
