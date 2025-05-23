@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F76900&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sayantan!;Engineer+%7C+AI+Builder+%7C+Cloud+Native+Thinker;Welcome+to+my+Digital+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F76900&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sayantan!;%7CEngineer+%7C+AI+Builder+%7C+Cloud+Native+Thinker;Welcome+to+my+Digital+Universe!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
