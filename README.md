@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F76900&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sayantan!;%7CEngineer+%7C+AI+Builder+%7C+Cloud+Native+Thinker;Welcome+to+my+Digital+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F76900&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sayantan!;Engineer+%7C+AI+Builder+%7C+Cloud+Native+Thinker;Welcome+to+my+Digital+Universe!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -33,19 +33,13 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  
-<a href="https://github.com/Sayantan0008/ai-study-buddy" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500" />
-</a>
+  <a href="https://github.com/Sayantan0008/ai-study-buddy" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500" />
+  </a>
 
-<a href="https://github.com/Sayantan0008/oncoassist" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=oncoassist&theme=radical&border_color=ff4f93" />
-</a>
-
-<a href="https://github.com/Sayantan0008/newsbite" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff" />
-</a>
-
+  <a href="https://github.com/Sayantan0008/newsbite" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff" />
+  </a>
 </div>
 
 ---
@@ -65,14 +59,6 @@
 
 ---
 
-## 💬 Philosophy
-
-```txt
-"Tech is not just code; it’s craft. Build art that runs."
-```
-
----
-
 ## 🌐 Contact Me
 <p align="center">
   <a href="mailto:sayantanghatak08@gmail.com">
@@ -88,4 +74,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling!;Drop+a+star+%E2%AD%90+if+you+liked+my+work!;Let’s+code+the+future+together+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 💬 Philosophy
+
+```txt
+"Tech is not just code; it’s craft. Build art that runs."
+```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayantan0008&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" />
 </p>
