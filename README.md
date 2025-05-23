@@ -193,7 +193,7 @@ const sayantan: Developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan0008&theme=redical&bg_color=0d1117&color=f85149&line=f85149&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" />
 
 <!-- Animated Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f85149&center=true&vCenter=true&width=800&lines=📊+Consistently+Contributing+to+Open+Source;🔥+Building+and+Learning+Every+Day;💡+Turning+Coffee+into+Code;⚡+Growing+the+GitHub+Green+Squares!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=f85149&center=true&vCenter=true&width=800&lines=%F0%9F%93%8A+Consistently+Contributing+to+Open+Source%3B%F0%9F%94%A5+Building+and+Learning+Every+Day%3B%F0%9F%92%A1+Turning+Coffee+into+Code%3B%E2%9A%A1+Growing+the+GitHub+Green+Squares%21"/>
 
 
 
