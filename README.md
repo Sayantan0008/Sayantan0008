@@ -92,13 +92,13 @@ const sayantan: Developer = {
 <img src="https://skillicons.dev/icons?i=python,java,js,typescript,react,nextjs&theme=dark" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,django&theme=dark" />
 
 ### Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,render,git,github&theme=dark" />
 
 ### AI/ML & Tools
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,vscode&theme=dark" />
