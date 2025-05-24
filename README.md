@@ -98,7 +98,12 @@ const sayantan: Developer = {
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,render,git,github&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Render-4285F4?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
 
 ### AI/ML & Tools
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,vscode&theme=dark" />
