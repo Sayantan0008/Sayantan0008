@@ -98,12 +98,11 @@ const sayantan: Developer = {
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
 
 ### Cloud & DevOps
-<p align="left">
+
   <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/Render-4285F4?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
 
 
 ### AI/ML & Tools
