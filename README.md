@@ -141,7 +141,7 @@ const sayantan: Developer = {
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-412991?style=flat-square&logo=openai&logoColor=white" />
 
 </td>
 <td align="center" width="50%">
@@ -157,7 +157,7 @@ const sayantan: Developer = {
 - 📱 Responsive web application
 - 🎯 Personalized recommendations
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" />
 
@@ -217,7 +217,7 @@ const sayantan: Developer = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯_Commits-1000+-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎯_Commits-150+-FF6B6B?style=for-the-badge&labelColor=000000" />
 <br/><strong>Consistent Contributor</strong>
 </td>
 <td align="center" width="25%">
