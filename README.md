@@ -113,7 +113,8 @@ Technologies I'm currently learning and working with to build amazing projects:
 ### 🧰 Tools & Platforms  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin:10px;" />
-<img src="https://raw.githubusercontent.com/render-examples/render-brand/main/logos/render-white.svg" alt="Render" width="90" />
+<img src="https://i.imgur.com/l3aJ0hQ.png" alt="Render" width="90" />
+
 
 
 </div>
