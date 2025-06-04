@@ -129,19 +129,14 @@ const sayantan: Developer = {
 <td align="center" width="50%">
 
 ### 🤖 AI Study Buddy
-<a href="https://github.com/Sayantan0008/ai-study-buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15" />
-</a>
+<a href="https://github.com/Sayantan0008/ai-study-buddy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15" /> </a>
+**🧠 Intelligent Learning Companion
 
-**🧠 Intelligent Learning Companion**
-- 🤖 LLM-powered personalized tutoring
-- 📚 Adaptive learning algorithms  
-- 🎨 Interactive UI with modern design
-- ⚡ Real-time AI assistance
+- 🤖 Gemini Flash-powered personalized tutoring using LLM + RAG
+- 📚 Semantic search over PDFs and curated study resources
+- 🔍 FAISS-based vector search for relevant content retrieval
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-412991?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS-0099FF?style=flat-square&logo=vector&logoColor=white" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 
 </td>
 <td align="center" width="50%">
