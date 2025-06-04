@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome%20to%20Sayantan's%20World!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&fontSize=45&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hey%20there,%20I%20am%20Sayantan%20👋!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 
 <br/>
 
