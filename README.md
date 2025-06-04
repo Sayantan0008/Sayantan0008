@@ -130,6 +130,7 @@ const sayantan: Developer = {
 
 ### 🤖 AI Study Buddy
 <a href="https://github.com/Sayantan0008/ai-study-buddy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15" /> </a>
+
 **🧠 Intelligent Learning Companion
 
 - 🤖 Gemini Flash-powered personalized tutoring using LLM + RAG
