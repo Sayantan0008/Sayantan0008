@@ -131,7 +131,7 @@ const sayantan: Developer = {
 ### 🤖 AI Study Buddy
 <a href="https://github.com/Sayantan0008/ai-study-buddy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=ai-study-buddy&theme=radical&border_color=ffa500&border_radius=15" /> </a>
 
-**🧠 Intelligent Learning Companion
+**🧠 Intelligent Learning Companion**
 
 - 🤖 Gemini Flash-powered personalized tutoring using LLM + RAG
 - 📚 Semantic search over PDFs and curated study resources
@@ -143,19 +143,15 @@ const sayantan: Developer = {
 <td align="center" width="50%">
 
 ### 📰 NewsBite
-<a href="https://github.com/Sayantan0008/newsbite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff&border_radius=15" />
-</a>
+<a href="https://github.com/Sayantan0008/newsbite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff&border_radius=15" /> </a>
+**🗞️ AI-Powered News Summarizer**
 
-**🔍 Smart News Aggregation**
-- 🔍 AI-driven content curation
-- ⚡ Real-time news processing
-- 📱 Responsive web application
-- 🎯 Personalized recommendations
+- 🔍 Extracts and summarizes news articles using LLMs
+- ⚡ Fast, efficient content summarization pipeline
+- 🧠 Designed for quick information consumption
+- 📱 Clean and responsive UI for better readability
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-8B00FF?style=flat-square&logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 </td>
 </tr>
