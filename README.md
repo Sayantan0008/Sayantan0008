@@ -226,7 +226,7 @@ const sayantan: Developer = {
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🌟_Languages-8+-F7DC6F?style=for-the-badge&labelColor=000000" />
-<br/><strong>Polyglot Developer</strong>
+<br/><strong>Python Developer</strong>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/⚡_Active_Days-300+-45B7D1?style=for-the-badge&labelColor=000000" />
