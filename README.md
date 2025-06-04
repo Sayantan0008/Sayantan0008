@@ -84,19 +84,32 @@ const sayantan: Developer = {
 
 ---
 
-## ⚒️ Tech Arsenal
+## 🛠️ Skills & Technologies  
+Technologies I'm currently learning and working with to build amazing projects:
 
-<div align="center">
+### 💻 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
 
-### Core Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,java,js,typescript,react,nextjs&theme=dark" />
+### 🤖 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black)  
 
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,django&theme=dark" />
+### 🌐 Web & API Development  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)  
 
-### Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
-
+### 🧰 Tools & Utilities  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Regex](https://img.shields.io/badge/Regex-FA7343?style=flat-square&logo=regex&logoColor=white)
 ### Cloud & DevOps
 
   <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
@@ -144,6 +157,7 @@ const sayantan: Developer = {
 
 ### 📰 NewsBite
 <a href="https://github.com/Sayantan0008/newsbite"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayantan0008&repo=newsbite&theme=radical&border_color=42caff&border_radius=15" /> </a>
+
 **🗞️ AI-Powered News Summarizer**
 
 - 🔍 Extracts and summarizes news articles using LLMs
