@@ -99,6 +99,10 @@ Technologies I'm currently learning and working with to build amazing projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60" style="margin:10px;" />
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="60" height="60" style="margin:10px;" />
+<br />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" style="margin: 10px;" />
+<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="Langchain" style="margin: 10px;" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" style="margin: 10px;" />
 
 ### 🌐 Web & API Development  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60" style="margin:10px;" />
@@ -109,33 +113,10 @@ Technologies I'm currently learning and working with to build amazing projects:
 ### 🧰 Tools & Platforms  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin:10px;" />
-<img src="https://render.com/images/favicon.svg" alt="Render" width="60" height="60" style="margin:10px;" />
+<img src="https://img.shields.io/badge/Render-4285F4?style=for-the-badge&logo=render&logoColor=white" />
 
 </div>
 
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Docker Git GitHub" style="margin: 10px;" />
-<br />
-<!-- Render alternative: using official SVG from Render with white fill for dark bg -->
-<img src="https://raw.githubusercontent.com/render-examples/render-brand/main/logos/render-white.svg" alt="Render" width="90" height="30" style="margin: 10px;" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" style="margin: 10px;" />
-
-</div>
-
-### 🤖 AI/ML & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,vscode&theme=dark" alt="TensorFlow PyTorch OpenCV VSCode" style="margin: 10px;" />
-<br />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" style="margin: 10px;" />
-<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="Langchain" style="margin: 10px;" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" style="margin: 10px;" />
-
-</div>
 
 <!-- Tech Skills Animation -->
 <div align="center">
