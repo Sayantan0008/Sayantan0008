@@ -113,24 +113,33 @@ Technologies I'm currently learning and working with to build amazing projects:
 
 </div>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/Render-4285F4?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Docker Git GitHub" style="margin: 10px;" />
+<br />
+<!-- Render alternative: using official SVG from Render with white fill for dark bg -->
+<img src="https://raw.githubusercontent.com/render-examples/render-brand/main/logos/render-white.svg" alt="Render" width="90" height="30" style="margin: 10px;" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" style="margin: 10px;" />
 
-### AI/ML & Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,vscode&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
+
+### 🤖 AI/ML & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,vscode&theme=dark" alt="TensorFlow PyTorch OpenCV VSCode" style="margin: 10px;" />
+<br />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" style="margin: 10px;" />
+<img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="Langchain" style="margin: 10px;" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" style="margin: 10px;" />
+
+</div>
 
 <!-- Tech Skills Animation -->
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%7C+AI%2FML+%7C+LLMs+%7C+GenAI;React+%7C+Node.js+%7C+FastAPI+%7C+Flask;Docker+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Always+Learning+New+Technologies!" />
-
 </div>
 
 ---
