@@ -224,7 +224,7 @@ Technologies I'm currently learning and working with to build amazing projects:
 <br/><strong>Consistent Contributor</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/📁_Repositories-20+-4ECDC4?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📁_Repositories-18+-4ECDC4?style=for-the-badge&labelColor=000000" />
 <br/><strong>Project Creator</strong>
 </td>
 <td align="center" width="25%">
