@@ -220,7 +220,7 @@ Technologies I'm currently learning and working with to build amazing projects:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯_Commits-500+-FF6B6B?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🎯_Commits-150+-FF6B6B?style=for-the-badge&labelColor=000000" />
 <br/><strong>Consistent Contributor</strong>
 </td>
 <td align="center" width="25%">
